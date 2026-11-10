@@ -1,3 +1,9 @@
+> **Ovia Inc fork** — We maintain this fork of [ollama/ollama](https://github.com/ollama/ollama): get up and running with open models — Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and others — with one-command local deployment, the standard way the field runs models on its own machines.
+>
+> **Story:** local-first is a hard design rule in our work wherever it can hold, and Ollama is the tool that made local models ordinary: pull a model, run it, serve it. Any agent stack that must work without a cloud bill or a network dependency passes through this layer. The fork sits on the model-infrastructure shelf as the collection's local-runtime reference. Upstream credit: Ollama. License: MIT (see LICENSE). The upstream project is documented below.
+
+---
+
 <p align="center">
   <a href="https://ollama.com">
     <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="ollama" width="200"/>
